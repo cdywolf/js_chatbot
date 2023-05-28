@@ -59,13 +59,6 @@ To get a local copy up and running follow these simple steps.
 
    Fix auto fixable problems.
 
-<!-- Deploy  -->
-## Deploy
+ 
 
-Click this button to configure your Project and deploy it to Vercel.  
-  
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FdevXprite%2Fjavascript-chatbot)
-
-## Credit
-
-Some chat intents were taken from **Dialogflow's [Small talk](https://dialogflow.cloud.google.com/#/agent/small-talk-bfie/intents)**.
+ 5.Or you can just go to https://js-chatbot-one.vercel.app/ to view the app in your browser.
